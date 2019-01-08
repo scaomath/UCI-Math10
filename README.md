@@ -13,3 +13,4 @@ Lecture notes (Jupyter notebooks) are available in the Lectures folder.
 | Lecture    | Contents |
 |:----------|:--------|
 |  Lecture 1 | Intro to Data Science, Jupyter notebooks, expressions, operations, variables, functions   |
+|  Lab 1 | keyboard shortcuts in Jupyter notebook, command mode vs edit mode  |
