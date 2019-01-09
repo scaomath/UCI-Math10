@@ -13,4 +13,11 @@ Lecture notes (Jupyter notebooks) are available in the Lectures folder.
 | Lecture    | Contents |
 |:----------|:--------|
 |  Lecture 1 | Intro to Data Science, Jupyter notebooks, expressions, operations, variables, functions   |
+|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, Booleans, If-else  |
+
+
+
+| Lab    | Contents |
+|:----------|:--------|
 |  Lab 1 | keyboard shortcuts in Jupyter notebook, command mode vs edit mode  |
+|  Graded Lab 1 | How to solve a quadratic equation  |
