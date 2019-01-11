@@ -13,7 +13,9 @@ Lecture notes (Jupyter notebooks) are available in the Lectures folder.
 | Lecture    | Contents |
 |:----------|:--------|
 |  Lecture 1 | Intro to Data Science, Jupyter notebooks, expressions, operations, variables, functions   |
-|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, Booleans, If-else  |
+|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, If-else  |
+|  Lecture 3 | List of lists, more on If-else, Boolean, NumPy arrays  |
+|  Lecture 4 | Indexing techinques in NumPy arrays, Matplotlib  |
 
 
 
