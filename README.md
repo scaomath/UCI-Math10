@@ -40,8 +40,8 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 |  Lecture 9 | Randomness part I, Matplotlib part III, scattered plot|
 |  Lecture 10 | Randomness part II, descriptive statistics|
 |  Lecture 11 | Randomness part III, random walks, time-dependent data|
-|  Lecture 12 | Randomness part IV, analyzing real-life data|
-|  Lecture 13 | Randomness part V, Law of large numbers and the central limit theorem|
+|  Lecture 12 | Randomness part IV, Law of large numbers and the central limit theorem|
+|  Lecture 13 | Class and methods, Ojbect-oriented programming|
 |  Lecture 14 | Minimizing/maximizing functions, gradient descent|
 |  Lecture 15 | Fitting data part I: Linear model, regression, least-square|
 |  Lecture 16 | Fitting data part II: More on least-square|
