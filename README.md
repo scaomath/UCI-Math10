@@ -35,7 +35,7 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 |  Lecture 4 | More Numpy arrays, slicing  |
 |  Lecture 5 | Matplotlib part I, While and For loops.  |
 |  Lecture 6 | More on While and For loops, vector-vector product, matrix-vector product|
-|  Lecture 7 | Vectorization of Numpy arrays, examples in machine learning|
+|  Lecture 7 | Vectorization of Numpy arrays, computational complexity, big-O notationom|
 |  Lecture 8 | Advanced slicing techniques on arrays. Matplotlib part II, histograms|
 |  Lecture 9 | Randomness part I, Matplotlib part III, scattered plot|
 |  Lecture 10 | Randomness part II, descriptive statistics|
