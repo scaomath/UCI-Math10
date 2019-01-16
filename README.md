@@ -67,6 +67,7 @@ Lab assignments' and Homeworks' solutions are available on [Canvas](https://canv
 ### Textbook
 No official textbook but we will use the following as references:
 [Scientific Computation: Python Hacking for Math Junkies. Version3, With iPython](https://github.com/biomathman/python-book/) (Math 9 reference book)
+<br><br>
 [Python Data Science Handbook. Online version](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
