@@ -74,3 +74,6 @@ No official textbook but we will use the following as references:
 ### Software
 Python 3 and Jupyter notebook (iPython). Please install [Anaconda](https://www.anaconda.com/download). To start Jupyter notebook, you can either use the Anaconda Navigator GUI, or start Terminal on Mac OS/Linux, Anaconda prompt on Windows: in the directory of `.ipynb` file, run the command `jupyter notebook` to start a notebook in your browser (Chrome recommended). If Jupyter complains that a specific package is missing when you 
 run your notebook, then return to the command line, execute `conda install <name of package>`, and re-run the notebook cell. 
+
+## Acknowledgements 
+A major part of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with a more vectorization and data-oriented presentation.
