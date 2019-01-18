@@ -38,7 +38,7 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 |  Lecture 7 | Vectorization of Numpy arrays, linear algebra routines, solving linear system|
 |  Lecture 8 | Advanced slicing techniques on arrays. Matplotlib part II, histograms|
 |  Lecture 9 | Randomness part I, Matplotlib part III, scattered plot|
-|  Lecture 10 | Randomness part II, descriptive statistics|
+|  Lecture 10 | Randomness part II, descriptive statistics, importing data|
 |  Lecture 11 | Randomness part III, random walks, time-dependent data|
 |  Lecture 12 | Randomness part IV, Law of large numbers and the central limit theorem|
 |  Lecture 13 | Class and methods, Object-oriented programming|
