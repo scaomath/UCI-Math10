@@ -44,14 +44,14 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 |  Lecture 13 | Class and methods, Object-oriented programming|
 |  Lecture 14 | Minimizing/maximizing functions, gradient descent|
 |  Lecture 15 | Fitting data part I: Linear model, regression, least-square|
-|  Lecture 16 | Fitting data part II: More on least-square|
-|  Lecture 17 | Fitting data part III: Overfitting, interpolation, Runge phenomenon|
-|  Lecture 18 | Optimization I: Solving linear regression by gradient descent|
-|  Lecture 19 | Optimization II: Stochastic gradient descent|
-|  Lecture 20 | Logistic regression, and other regression models|
-|  Lecture 21 | Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
-|  Lecture 22 | Eigenfaces, real life applications|
-|  Lecture 23 | Clustering, k-means, Bayesian classification, scikit-learn package|
+|  Lecture 16 | Optimization I: Solving linear regression by gradient descent|
+|  Lecture 17 | Fitting data part II: Overfitting, interpolation, Runge phenomenon|
+|  Lecture 18 | Classification part I: Logistic regression, binary classifier|
+|  Lecture 19 | Classification part II: Softmax regression, multiclass classifier|
+|  Lecture 20 | Optimization II: Stochastic gradient descent|
+|  Lecture 21 | Classification part III: K-nearest neighbor, Bayesian classification|
+|  Lecture 22 | Singular Value Decomposition (SVD), Principal Component Analysis (PCA), Eigenfaces|
+|  Lecture 23 | Clustering, k-means|
 |  Lecture 24 | A brief introduction to Neural Networks|
 |  Lecture 25 | Backpropagation, stochastic gradient descent, regularization|
 |  Lecture 26 | R, Julia, PyTorch, and other tools to look at|
