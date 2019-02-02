@@ -2,7 +2,7 @@
 This is the repository for Math 10 Intro to Programming for Data Science
 ---------------------------------------------------------
 
-**Math 10** is the first dedicated programming class in the Data Science specialization of Math Major at University of California Irvine. We will learn the current de facto algorithms in data science/machine learning using Python, R, Julia, and other popular tools.
+**Math 10** is the first dedicated programming class in the Data Science specialization designed mainly for Math majors at University of California Irvine. We will learn some of current de facto algorithms, and verify some theorems in Mathematics behind in data science/machine learning mainly using Python, and the format can be adapted to other popular languages like R and Julia.
 
 ### Prerequisites: 
 **MATH 2D** Multivariate Calculus
@@ -76,4 +76,4 @@ Python 3 and Jupyter notebook (iPython). Please install [Anaconda](https://www.a
 run your notebook, then return to the command line, execute `conda install <name of package>`, and re-run the notebook cell. 
 
 ## Acknowledgements 
-A major part of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with a more vectorization and data-oriented presentation.
+A major part of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data-oriented way.
