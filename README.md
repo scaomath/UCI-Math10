@@ -45,7 +45,7 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 |  Lecture 14 | Minimizing/maximizing functions, gradient descent|
 |  Lecture 15 | Fitting data part I: Linear model, regression, least-square|
 |  Lecture 16 | Optimization I: Solving linear regression by gradient descent|
-|  Lecture 17 | Fitting data part II: Overfitting, interpolation, Runge phenomenon|
+|  Lecture 17 | Fitting data part II: Overfitting, interpolation, multivariate linear regression|
 |  Lecture 18 | Classification part I: Logistic regression, binary classifier|
 |  Lecture 19 | Classification part II: Softmax regression, multiclass classifier|
 |  Lecture 20 | Optimization II: Stochastic gradient descent|
