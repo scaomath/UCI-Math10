@@ -30,28 +30,28 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 | Lecture    | Contents |
 |:----------|:--------|
 |  Lecture 1 | Intro to Data Science, Jupyter notebooks, expressions, operations, variables, functions  |
-|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, If-else  |
-|  Lecture 3 | Booleans, Lists, Arrays, Numpy  |
+|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, IF-ELSE  |
+|  Lecture 3 | Booleans, Lists, Numpy arrays  |
 |  Lecture 4 | More Numpy arrays, slicing  |
-|  Lecture 5 | Matplotlib part I, While and For loops.  |
-|  Lecture 6 | More on While and For loops, vector-vector product, matrix-vector product|
-|  Lecture 7 | Vectorization of Numpy arrays, linear algebra routines, solving linear system|
-|  Lecture 8 | Advanced slicing techniques on arrays. Matplotlib part II, histograms|
-|  Lecture 9 | Randomness part I, Matplotlib part III, scattered plot|
-|  Lecture 10 | Randomness part II, descriptive statistics, importing data|
-|  Lecture 11 | Randomness part III, random walks, time-dependent data|
-|  Lecture 12 | Randomness part IV, Law of large numbers and the central limit theorem|
-|  Lecture 13 | Class and methods, Object-oriented programming|
-|  Lecture 14 | Minimizing/maximizing functions, gradient descent|
-|  Lecture 15 | Fitting data part I: Linear model, regression, least-square|
-|  Lecture 16 | Optimization I: Solving linear regression by gradient descent|
-|  Lecture 17 | Fitting data part II: Overfitting, interpolation, multivariate linear regression|
-|  Lecture 18 | Classification part I: Logistic regression, binary classifier|
-|  Lecture 19 | Classification part II: Softmax regression, multiclass classifier|
-|  Lecture 20 | Optimization II: Stochastic gradient descent|
-|  Lecture 21 | Classification part III: K-nearest neighbor, Bayesian classification|
-|  Lecture 22 | Singular Value Decomposition (SVD), Principal Component Analysis (PCA), Eigenfaces|
-|  Lecture 23 | Clustering, k-means|
+|  Lecture 5 | Matplotlib I, WHILE and FOR loops.  |
+|  Lecture 6 | More on WHILE and FOR loops, vector-vector product, matrix-vector product|
+|  Lecture 7 | Vectorization, linear algebra routines, solving linear system|
+|  Lecture 8 | Advanced slicing techniques on arrays. Matplotlib II, histograms|
+|  Lecture 9 | Randomness I; Matplotlib III, scattered plot|
+|  Lecture 10 | Randomness II, descriptive statistics, importing data|
+|  Lecture 11 | Randomness III, random walks, time-dependent data|
+|  Lecture 12 | Randomness IV, Law of large numbers and the central limit theorem|
+|  Lecture 13 | Class and methods, Object-oriented programming, scikit-learn classes|
+|  Lecture 14 | Optimization I: Minimizing/maximizing functions, gradient descent|
+|  Lecture 15 | Fitting data I: Linear model, regression, least-square|
+|  Lecture 16 | Optimization II: Solving linear regression by gradient descent|
+|  Lecture 17 | Fitting data II: Overfitting, interpolation, multivariate linear regression|
+|  Lecture 18 | Classification I: Logistic regression, binary classifier|
+|  Lecture 19 | Classification II: Softmax regression, multiclass classifier|
+|  Lecture 20 | Optimization III: Stochastic gradient descent|
+|  Lecture 21 | Classification III: K-nearest neighbor, Bayesian classification|
+|  Lecture 22 | Dimension reduction I: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
+|  Lecture 23 | Dimension reduction II: Clustering, k-means|
 |  Lecture 24 | A brief introduction to Neural Networks|
 |  Lecture 25 | Backpropagation, stochastic gradient descent, regularization|
 |  Lecture 26 | R, Julia, PyTorch, and other tools to look at|
