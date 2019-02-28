@@ -76,4 +76,4 @@ Python 3 and Jupyter notebook (iPython). Please install [Anaconda](https://www.a
 run your notebook, then return to the command line, execute `conda install <name of package>`, and re-run the notebook cell. 
 
 ## Acknowledgements 
-A major part of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data-oriented way.
+A major portion of the first half of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data-oriented way. Part of the second half of this course (regressions, classifications, multi-layer neural net, PCA) is adapted from [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)'s MATLAB codes to vectorized implementations in Numpy from scratch, together with the `scikit-learn`'s counterparts.
