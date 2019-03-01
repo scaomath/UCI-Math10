@@ -19,12 +19,6 @@ This is the repository for Math 10 Intro to Programming for Data Science
 
 ----
 
-### Winter 2019 quarter:
-__Instructor:__ Shuhao Cao<br><br>
-__Teaching Assistant:__ Zach Drumbor<br><br>
-__Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](https://canvas.eee.uci.edu/courses/13329)
-<br><br>
-
 ### Lecture notes (Jupyter notebooks) are available in the Lectures folder.
 
 | Lecture    | Contents |
@@ -61,7 +55,7 @@ __Canvas course page homepage:__ [https://canvas.eee.uci.edu/courses/13329](http
 There are two Labs per week. One is a Lab exercise, aiming to review and sharpen your programming skills. 
 The other is a graded Lab assignment, which is like a collaborative programming quiz.
 Homework is assigned on a weekly basis, the later ones may look a mini project.
-Lab assignments' and Homeworks' solutions are available on [Canvas](https://canvas.eee.uci.edu/courses/13329).
+Lab assignments' and Homeworks' solutions are available on [Canvas](https://canvas.eee.uci.edu).
 
 
 ### Textbook
