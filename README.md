@@ -25,16 +25,16 @@ This is the repository for Math 10 Intro to Programming for Data Science
 |:----------|:--------|
 |  Lecture 1 | Intro to Jupyter notebooks, expressions, operations, variables |
 |  Lecture 2 | Defining your own functions, types (float, bool, int), Lists, IF-ELSE  |
-|  Lecture 3 | Numpy arrays I, WHILE and FOR loops |
+|  Lecture 3 | Numpy arrays I, tuples, WHILE and FOR loops |
 |  Lecture 4 | Numpy arrays II, slicing techniques on arrays |
 |  Lecture 5 | Matplotlib I, plot the graph of a function |
-|  Lecture 6 | Vectorization, linear algebra routines, solving linear system |
+|  Lecture 6 | Vectorization, linear algebra routines |
 |  Lecture 7 | Matplotlib II, histograms|
-|  Lecture 8 | Randomness I; Matplotlib III, scattered plot|
+|  Lecture 8 | Randomness I; Matplotlib III, scatter plot|
 |  Lecture 9 | Randomness II, descriptive statistics, sampling data|
 |  Lecture 10 | Randomness III, random walks, Law of large numbers|
-|  Lecture 11 | Class and methods, Object-oriented programming |
-|  Lecture 12 | Optimization I: Minimizing/maximizing functions, gradient descent|
+|  Lecture 11 | Introduction to class and methods, object-oriented programming |
+|  Lecture 12 | Optimization I: Optimizing functions, gradient descent|
 |  Lecture 13 | Fitting data I: Linear model, regression, least-square|
 |  Lecture 14 | Optimization II: Solving linear regression by gradient descent|
 |  Lecture 15 | Fitting data II: Overfitting, interpolation, multivariate linear regression|
@@ -44,9 +44,9 @@ This is the repository for Math 10 Intro to Programming for Data Science
 |  Lecture 19 | Optimization III: Stochastic gradient descent|
 |  Lecture 20 | Classification IV: K-nearest neighbor|
 |  Lecture 21 | Dimension reduction: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
-|  Lecture 22 | A brief introduction to Neural Networks|
-|  Lecture 23 | Backpropagation, stochastic gradient descent, regularization|
-|  Lecture 24 | PyTorch, and other tools to look at |
+|  Lecture 22 | Feedforward Neural Networks I: models, activation functions, regularizations |
+|  Lecture 23 | Feedforward Neural Networks II: backpropagation |
+|  Lecture 24 | PyTorch, Autograd, and other tools to look at |
 
 
 ### Labs and Homeworks
