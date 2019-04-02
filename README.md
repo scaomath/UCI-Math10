@@ -23,32 +23,30 @@ This is the repository for Math 10 Intro to Programming for Data Science
 
 | Lecture    | Contents |
 |:----------|:--------|
-|  Lecture 1 | Intro to Data Science, Jupyter notebooks, expressions, operations, variables, functions  |
-|  Lecture 2 | Variables, Types, Defining your own functions, local vs global variables, Lists, IF-ELSE  |
-|  Lecture 3 | Booleans, Lists, Numpy arrays  |
-|  Lecture 4 | More Numpy arrays, slicing  |
-|  Lecture 5 | Matplotlib I, WHILE and FOR loops.  |
-|  Lecture 6 | More on WHILE and FOR loops, vector-vector product, matrix-vector product|
-|  Lecture 7 | Vectorization, linear algebra routines, solving linear system|
-|  Lecture 8 | Advanced slicing techniques on arrays. Matplotlib II, histograms|
-|  Lecture 9 | Randomness I; Matplotlib III, scattered plot|
-|  Lecture 10 | Randomness II, descriptive statistics, importing data|
-|  Lecture 11 | Randomness III, random walks, time-dependent data|
-|  Lecture 12 | Randomness IV, Law of large numbers and the central limit theorem|
-|  Lecture 13 | Class and methods, Object-oriented programming, scikit-learn classes|
-|  Lecture 14 | Optimization I: Minimizing/maximizing functions, gradient descent|
-|  Lecture 15 | Fitting data I: Linear model, regression, least-square|
-|  Lecture 16 | Optimization II: Solving linear regression by gradient descent|
-|  Lecture 17 | Fitting data II: Overfitting, interpolation, multivariate linear regression|
-|  Lecture 18 | Classification I: Logistic regression, binary classifier|
-|  Lecture 19 | Classification II: Softmax regression, multiclass classifier|
-|  Lecture 20 | Optimization III: Stochastic gradient descent|
-|  Lecture 21 | Classification III: K-nearest neighbor, Bayesian classification|
-|  Lecture 22 | Dimension reduction I: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
-|  Lecture 23 | Dimension reduction II: Clustering, k-means|
-|  Lecture 24 | A brief introduction to Neural Networks|
-|  Lecture 25 | Backpropagation, stochastic gradient descent, regularization|
-|  Lecture 26 | R, Julia, PyTorch, and other tools to look at|
+|  Lecture 1 | Intro to Jupyter notebooks, expressions, operations, variables |
+|  Lecture 2 | Defining your own functions, types (float, bool, int), Lists, IF-ELSE  |
+|  Lecture 3 | Numpy arrays I, WHILE and FOR loops |
+|  Lecture 4 | Numpy arrays II, slicing techniques on arrays |
+|  Lecture 5 | Matplotlib I, plot the graph of a function |
+|  Lecture 6 | Vectorization, linear algebra routines, solving linear system |
+|  Lecture 7 | Matplotlib II, histograms|
+|  Lecture 8 | Randomness I; Matplotlib III, scattered plot|
+|  Lecture 9 | Randomness II, descriptive statistics, sampling data|
+|  Lecture 10 | Randomness III, random walks, Law of large numbers|
+|  Lecture 11 | Class and methods, Object-oriented programming |
+|  Lecture 12 | Optimization I: Minimizing/maximizing functions, gradient descent|
+|  Lecture 13 | Fitting data I: Linear model, regression, least-square|
+|  Lecture 14 | Optimization II: Solving linear regression by gradient descent|
+|  Lecture 15 | Fitting data II: Overfitting, interpolation, multivariate linear regression|
+|  Lecture 16 | Classification I: Bayesian classification, supervised learning models|
+|  Lecture 17 | Classification II: Logistic regression, binary classifier|
+|  Lecture 18 | Classification III: Softmax regression, multiclass classifier|
+|  Lecture 19 | Optimization III: Stochastic gradient descent|
+|  Lecture 20 | Classification IV: K-nearest neighbor|
+|  Lecture 21 | Dimension reduction: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
+|  Lecture 22 | A brief introduction to Neural Networks|
+|  Lecture 23 | Backpropagation, stochastic gradient descent, regularization|
+|  Lecture 24 | PyTorch, and other tools to look at |
 
 
 ### Labs and Homeworks
