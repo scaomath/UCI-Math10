@@ -26,9 +26,9 @@ This is the repository for Math 10 Intro to Programming for Data Science
 |  Lecture 1 | Intro to Jupyter notebooks, expressions, operations, variables |
 |  Lecture 2 | Defining your own functions, types (float, bool, int), Lists, IF-ELSE  |
 |  Lecture 3 | Numpy arrays I, tuples, slicing |
-|  Lecture 4 | Numpy arrays II, WHILE and FOR loops vs vectorization, advanced slicing |
+|  Lecture 4 | Numpy arrays II, WHILE and FOR loops, advanced slicing |
 |  Lecture 5 | Matplotlib I, plot the graph of a function |
-|  Lecture 6 | Vectorization, linear algebra routines |
+|  Lecture 6 | More on vectorization, linear algebra routines |
 |  Lecture 7 | Matplotlib II, histograms|
 |  Lecture 8 | Randomness I; Matplotlib III, scatter plot|
 |  Lecture 9 | Randomness II, descriptive statistics, sampling data|
