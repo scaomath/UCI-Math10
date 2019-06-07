@@ -2,7 +2,7 @@
 This is the repository for Math 10 Intro to Programming for Data Science
 ---------------------------------------------------------
 
-**Math 10** is the first dedicated programming class in the Data Science specialization designed mainly for Math majors at University of California Irvine. We will learn some of current de facto algorithms, and verify some theorems in Mathematics behind in data science/machine learning mainly using Python, and the format can be adapted to other popular languages like R and Julia.
+**Math 10** is the first dedicated programming class in the Data Science specialization designed mainly for Math majors at University of California Irvine. Some of current de facto algorithms will be featured, and some theorems in Mathematics behind in data science/machine learning are to be verified using Python, and the format can be adapted to other popular languages like R and Julia.
 
 ### Prerequisites: 
 **MATH 2D** Multivariate Calculus
@@ -46,7 +46,7 @@ This is the repository for Math 10 Intro to Programming for Data Science
 |  Lecture 21 | Dimension reduction: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
 |  Lecture 22 | Feedforward Neural Networks I: models, activation functions, regularizations |
 |  Lecture 23 | Feedforward Neural Networks II: backpropagation |
-|  Lecture 24 | PyTorch, Autograd, and other tools to look at |
+|  Lecture 24 | KFold, PyTorch, Autograd, and other tools to look at |
 
 
 ### Labs and Homeworks
@@ -67,5 +67,11 @@ No official textbook but we will use the following as references:
 Python 3 and Jupyter notebook (iPython). Please install [Anaconda](https://www.anaconda.com/download). To start Jupyter notebook, you can either use the Anaconda Navigator GUI, or start Terminal on Mac OS/Linux, Anaconda prompt on Windows: in the directory of `.ipynb` file, run the command `jupyter notebook` to start a notebook in your browser (Chrome recommended). If Jupyter complains that a specific package is missing when you 
 run your notebook, then return to the command line, execute `conda install <name of package>`, and re-run the notebook cell. 
 
+### Final Project
+There is one final project using Kaggle in-class competition. 
+A standard classification problem similar to the Kaggle famous starter competition [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) based on MNIST dataset will be featured. You will use the techniques learned in class and not in class (e.g., random forest, gradient boosting, etc) to classify objects.
+* [Winter 2019 final project: Learn the handwritten characters in ancient Japanese](https://www.kaggle.com/c/uci-math-10-winter2019)
+* [Spring 2019 final project: Is your algorithm fashionable enough to classify sneakers?](https://www.kaggle.com/c/uci-math10-spring2019)
+
 ## Acknowledgements 
-A major portion of the first half of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data-oriented way. Part of the second half of this course (regressions, classifications, multi-layer neural net, PCA) is adapted from [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)'s MATLAB codes to vectorized implementations in Numpy from scratch, together with the `scikit-learn`'s counterparts.
+A major portion of the first half of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data science-oriented way. Part of the second half of this course (regressions, classifications, multi-layer neural net, PCA) is adapted from [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)'s MATLAB codes to vectorized implementations in `numpy` from scratch, together with the `scikit-learn`'s counterparts.
