@@ -23,30 +23,30 @@ This is the repository for Math 10 Intro to Programming for Data Science
 
 | Lecture    | Contents |
 |:----------|:--------|
-|  Lecture 1 | Intro to Jupyter notebooks, expressions, operations, variables |
-|  Lecture 2 | Defining your own functions, types (float, bool, int), Lists, IF-ELSE  |
-|  Lecture 3 | Numpy arrays I, tuples, slicing |
-|  Lecture 4 | Numpy arrays II, WHILE and FOR loops vs vectorized routine |
-|  Lecture 5 | Numpy arrays III, advanced slicing; Matplotlib I, pyplot |
-|  Lecture 6 | Numpy arrays IV, Vectorization, linear algebra routines |
-|  Lecture 7 | Matplotlib II, histograms|
-|  Lecture 8 | Randomness I; Matplotlib III, scatter plot|
-|  Lecture 9 | Randomness II, descriptive statistics, sampling data|
-|  Lecture 10 | Randomness III, random walks, Law of large numbers|
-|  Lecture 11 | Introduction to class and methods, object-oriented programming |
-|  Lecture 12 | Optimization I: Optimizing functions, gradient descent|
-|  Lecture 13 | Fitting data I: Linear model, regression, least-square|
-|  Lecture 14 | Optimization II: Solving linear regression by gradient descent|
-|  Lecture 15 | Fitting data II: Overfitting, interpolation, multivariate linear regression|
-|  Lecture 16 | Classification I: Bayesian classification, supervised learning models|
-|  Lecture 17 | Classification II: Logistic regression, binary classifier|
-|  Lecture 18 | Classification III: Softmax regression, multiclass classifier|
-|  Lecture 19 | Optimization III: Stochastic gradient descent|
-|  Lecture 20 | Classification IV: K-nearest neighbor|
-|  Lecture 21 | Dimension reduction: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)|
-|  Lecture 22 | Feedforward Neural Networks I: models, activation functions, regularizations |
-|  Lecture 23 | Feedforward Neural Networks II: backpropagation |
-|  Lecture 24 | KFold, PyTorch, Autograd, and other tools to look at |
+|  Lecture 1 | [Intro to Jupyter notebooks, expressions, operations, variables](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-01-introduction.ipynb) |
+|  Lecture 2 | [Defining your own functions, types (float, bool, int), Lists, IF-ELSE](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-02-Variables-and-Functions.ipynb)  |
+|  Lecture 3 | [Numpy arrays I, tuples, slicing](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-03-Numpy.ipynb) |
+|  Lecture 4 | [Numpy arrays II, WHILE and FOR loops vs vectorization](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-04-Loops-vs-Vectorization.ipynb) |
+|  Lecture 5 | [Numpy arrays III, advanced slicing; Matplotlib I, pyplot](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-05-Matplotlib.ipynb) |
+|  Lecture 6 | [Numpy arrays IV, Linear algebra routines](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-06-Linear-Algebra.ipynb) |
+|  Lecture 7 | [Matplotlib II, histograms](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-07-Histogram.ipynb)|
+|  Lecture 8 | [Randomness I; Matplotlib III, scatter plot](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-08-Randomness.ipynb)|
+|  Lecture 9 | [Randomness II, descriptive statistics, sampling data](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-09-Statistics.ipynb)|
+|  Lecture 10 | [Randomness III, random walks, Law of large numbers](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-10-Random-Walks.ipynb)|
+|  Lecture 11 | [Introduction to class and methods, object-oriented programming](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-11-Class.ipynb) |
+|  Lecture 12 | [Optimization I: Optimizing functions, gradient descent](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-12-Gradient-Descent.ipynb)|
+|  Lecture 13 | [Fitting data I: Linear model, regression, least-square](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-13-Linear-Regression.ipynb)|
+|  Lecture 14 | [Optimization II: Solving linear regression by gradient descent](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-14-Linear-Regression-II.ipynb)|
+|  Lecture 15 | [Fitting data II: Overfitting, interpolation, multivariate linear regression](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-15-Overfitting.ipynb)|
+|  Lecture 16 | [Classification I: Bayesian classification, supervised learning models](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-16-Classification-I.ipynb)|
+|  Lecture 17 | [Classification II: Logistic regression, binary classifier](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-17-Classification-II-Binary.ipynb)|
+|  Lecture 18 | [Classification III: Softmax regression, multiclass classifier](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-18-Classification-III-Multiclass.ipynb)|
+|  Lecture 19 | [Optimization III: Stochastic gradient descent](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-19-Stochastic-Gradient-Descent.ipynb)|
+|  Lecture 20 | [Classification IV: K-nearest neighbor](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-20-K-Nearest-Neighbor.ipynb)|
+|  Lecture 21 | [Dimension reduction: Singular Value Decomposition (SVD), Principal Component Analysis (PCA)](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-21-Principal-Component-Analysis.ipynb)|
+|  Lecture 22 | [Feedforward Neural Networks I: models, activation functions, regularizations](https://github.com/scaomath/UCI-Math10/blob/master/Lectures/Lecture-22-Neural-Network-I.ipynb) |
+|  Lecture 23 | [Feedforward Neural Networks II: backpropagation](https://github.com/scaomath/UCI-Math10/blob/master/Lectures/Lecture-23-Neural-Network-II.ipynb) |
+|  Lecture 24 | [KFold, PyTorch, Autograd, and other tools to look at](https://nbviewer.jupyter.org/github/scaomath/UCI-Math10/blob/master/Lectures/Lecture-24-Advanced-Tricks.ipynb) |
 
 
 ### Labs and Homeworks
@@ -74,4 +74,4 @@ A standard classification problem similar to the Kaggle famous starter competiti
 * [Spring 2019 final project: Is your algorithm fashionable enough to classify sneakers?](https://www.kaggle.com/c/uci-math10-spring2019)
 
 ## Acknowledgements 
-A major portion of the first half of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization and examples are presented in a more data science-oriented way. Part of the second half of this course (regressions, classifications, multi-layer neural net, PCA) is adapted from [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)'s MATLAB codes to vectorized implementations in `numpy` from scratch, together with the `scikit-learn`'s counterparts.
+A major portion of the first half of the course is adapted from [Umut Isik's Math 9 in Winter 2017](https://www.math.uci.edu/~isik/teaching/17W_MATH9/index.html) with much more emphases on vectorization, and instead the materials are presented using classic toy examples in data science (Iris, wine quality, Boston housing prices, MNIST, etc). Part of the second half of this course (regressions, classifications, multi-layer neural net, PCA) is adapted from [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)'s MATLAB codes to vectorized implementations in `numpy` from scratch, together with their `scikit-learn`'s counterparts.
