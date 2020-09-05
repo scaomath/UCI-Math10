@@ -1,8 +1,10 @@
-# UCI-Math10
-This is the repository for Math 10 Intro to Programming for Data Science
+# UC Irvine Math 10:  Introduction to Programming for Data Science
+
 ---------------------------------------------------------
 
 **Math 10** is the first dedicated programming class in the Data Science specialization designed mainly for Math majors at University of California Irvine. Some of current de facto algorithms will be featured, and some theorems in Mathematics behind in data science/machine learning are to be verified using Python, and the format can be adapted to other popular languages like R and Julia.
+
+(**Update Sep 2020**): As I am not affiliated with UCI anymore, please refer to the UCI math website for the latest syllabi for Math 10.
 
 ### Prerequisites: 
 **MATH 2D** Multivariate Calculus
